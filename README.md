@@ -1,1 +1,1 @@
-# matem-gica-site
+# matemagica-site
